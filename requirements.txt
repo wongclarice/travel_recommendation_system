@@ -1,0 +1,10 @@
+pandas==2.0.3
+numpy==1.25.2
+# ml-metrics==0.1.4
+scikit-learn==1.2.2
+shapely==2.0.4
+geopy==2.3.0
+matplotlib==3.7.1
+plotly==5.15.0
+nbformat==5.10.4
+Jinja2==3.1.4
